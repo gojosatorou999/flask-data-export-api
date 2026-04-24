@@ -20,7 +20,7 @@ A simple Flask application that serves an API to export database records (SQLite
    python init_db.py
    ```
 
-3. **Run the API**:
+3. **Run the API**
    ```bash
    python app.py
    ```
