@@ -7,7 +7,7 @@ A simple Flask application that serves an API to export database records (SQLite
 - **SQLite Integration**: Uses lightweight SQLite for data storage.
 - **Efficient Streaming**: Leverages `stream_with_context` for handling large datasets without high memory overhead.
 
-## Setup
+## Setup :
 
 1. **Install Dependencies**:
    ```bash
