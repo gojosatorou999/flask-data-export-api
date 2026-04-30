@@ -9,7 +9,7 @@ A simple Flask application that serves an API to export database records (SQLite
 
 ## Setup :
 
-1. **Install Dependencies**:
+1. **Install Dependencies**
    ```bash
    pip install flask
    ```
