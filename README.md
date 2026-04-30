@@ -14,7 +14,7 @@ A simple Flask application that serves an API to export database records (SQLite
    pip install flask
    ```
 
-2. **Initialize Database**
+2. **Initialize Database**:
    Run the initialization script to create the SQLite database and populate it with sample data.
    ```bash
    python init_db.py
