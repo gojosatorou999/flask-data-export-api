@@ -11,7 +11,7 @@ A simple Flask application that serves an API to export database records (SQLite
  
 1. **Install Dependencies**
    ```bash        
-   pip install flask    
+   pip install flask      
    ```
 
 2. **Initialize Database**
