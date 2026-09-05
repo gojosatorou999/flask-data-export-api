@@ -1,7 +1,7 @@
 # Data Export API
 
 A simple Flask application that serves an API to export database records (SQLite) as a CSV file.
-
+   
 ## Features
 - **CSV Export**: Stream database data directly to a downloadable CSV file.
 - **SQLite Integration**: Uses lightweight SQLite for data storage.
