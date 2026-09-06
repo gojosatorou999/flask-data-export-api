@@ -6,7 +6,7 @@ A simple Flask application that serves an API to export database records (SQLite
 - **CSV Export**: Stream database data directly to a downloadable CSV file.
 - **SQLite Integration**: Uses lightweight SQLite for data storage.
 - **Efficient Streaming**: Leverages `stream_with_context` for handling large datasets without high memory overhead.
-
+  
 ## Setup                 
  
 1. **Install Dependencies**    
