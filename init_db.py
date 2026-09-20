@@ -3,7 +3,7 @@ import sqlite3
 def init_db():
     conn = sqlite3.connect('data.db')
     cursor = conn.cursor()
-    
+     
     # Create a dummy users table
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS users (
