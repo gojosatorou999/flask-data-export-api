@@ -2,7 +2,7 @@ import sqlite3
 from flask import Flask, Response, stream_with_context
 import csv
 import io
-
+  
 app = Flask(__name__)
 
 DB_NAME = 'data.db'
