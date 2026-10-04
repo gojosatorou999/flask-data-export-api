@@ -13,7 +13,7 @@ def init_db():
         role TEXT NOT NULL,
         created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
     )
-    ''')
+    ''')  
     
     # Insert some dummy data if the table is empty
     cursor.execute('SELECT COUNT(*) FROM users')
