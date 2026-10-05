@@ -6,7 +6,7 @@ import io
 app = Flask(__name__)
  
 DB_NAME = 'data.db' 
-
+  
 def get_db_connection():
     conn = sqlite3.connect(DB_NAME)
     conn.row_factory = sqlite3.Row
